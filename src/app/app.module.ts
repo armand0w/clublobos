@@ -11,10 +11,10 @@ import { APP_ROUTING } from './app.routes';
 
 // Components
 import { AppComponent } from './app.component';
-import { NavbarComponent } from './components/navbar/navbar.component';
+import { NavbarComponent } from './components/shared/navbar/navbar.component';
 import { HomeComponent } from './components/home/home.component';
 import { FormacionComponent } from './components/formacion/formacion.component';
-import { FooterComponent } from './components/footer/footer.component';
+import { FooterComponent } from './components/shared/footer/footer.component';
 import { PreparacionComponent } from './components/preparacion/preparacion.component';
 import { AlimentacionComponent } from './components/alimentacion/alimentacion.component';
 import { GimnasiaComponent } from './components/gimnasia/gimnasia.component';
